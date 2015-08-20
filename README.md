@@ -15,11 +15,9 @@
 
 #About Me
   
-  **sunliymonkey**
-  
-  mail: sunliymonkey@163.com
-  
-  blog: [SunliyMonkey博客][1]
+  **sunliymonkey** </br>
+  **Mail :** sunliymonkey@163.com</br>
+  **Blog:** [SunliyMonkey博客][1]</br>
 
 [1]: http://blog.csdn.net/sunliymonkey "sunliymonkey blog" 
 
