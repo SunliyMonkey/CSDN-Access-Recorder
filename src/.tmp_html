@@ -1,0 +1,702 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+     
+    <html xmlns="http://www.w3.org/1999/xhtml">
+    
+<head>   
+    
+     
+    <script type="text/javascript" src="http://c.csdnimg.cn/pubfooter/js/tracking.js" charset="utf-8"></script>  
+
+    <script type="text/javascript">
+        var protocol = window.location.protocol;
+        document.write('<script type="text/javascript" src="' + protocol + '//csdnimg.cn/pubfooter/js/repoAddr2.js?v=' + Math.random() + '"></' + 'script>');
+    </script>
+
+     <script id="allmobilize" charset="utf-8" src="http://a.yunshipei.com/46aae4d1e2371e4aa769798941cef698/allmobilize.min.js"></script>
+ <meta http-equiv="Cache-Control" content="no-siteapp" /><link rel="alternate" media="handheld" href="#" />
+
+    <title>SunliyMonkey
+        - 博客频道 - CSDN.NET</title>
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta name="description" content="" />
+    <script src="http://static.blog.csdn.net/scripts/jquery.js" type="text/javascript"></script>
+    <script type="text/javascript" src="http://static.blog.csdn.net/scripts/ad.js?v=1.1"></script>
+        <!--new top-->
+               <link rel="stylesheet" href="http://static.csdn.net/public/common/toolbar/css/index.css">        <!--new top-->
+
+    <link rel="Stylesheet" type="text/css" href="http://static.blog.csdn.net/skin/dark1/css/style.css?v=1.1" />
+    <link id="RSSLink" title="RSS" type="application/rss+xml" rel="alternate" href="/SunliyMonkey/rss/list" />
+    <link rel="shortcut icon" href="http://c.csdnimg.cn/public/favicon.ico" />
+    <link type="text/css" rel="stylesheet" href="http://static.blog.csdn.net/scripts/SyntaxHighlighter/styles/default.css" />
+ 
+
+
+</head>
+<body>
+    
+   
+      <!--new top-->
+    <script id="toolbar-tpl-scriptId" fixed="true" prod="blog" skin="black" src="http://static.csdn.net/public/common/toolbar/js/html.js" type="text/javascript"></script>
+     <!--new top-->
+    <div id="container">
+        <div id="header">
+    <div class="header">
+        <div id="blog_title">
+            <h2>
+                <a href="http://blog.csdn.net/sunliymonkey">SunliyMonkey</a></h2>
+            <h3>想要飞，就必须从不妥协</h3>
+            <div class="clear">
+            </div>
+        </div>
+        <div class="clear">
+        </div>
+    </div>
+</div>
+<div id="navigator">
+    <div class="navigator_bg">
+    </div>
+    <div class="navigator">
+        <ul>
+            
+                <li id="btnContents"><a href="http://blog.csdn.net/sunliymonkey?viewmode=contents"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_mulu'])">
+                    <img src="http://static.blog.csdn.net/images/ico_list.gif">目录视图</span></a></li>
+                <li id="btnView"><a href="http://blog.csdn.net/sunliymonkey?viewmode=list"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_zhaiyao'])">
+                    <img src="http://static.blog.csdn.net/images/ico_summary.gif">摘要视图</span></a></li>
+                <li id="btnRss"><a href="http://blog.csdn.net/sunliymonkey/rss/list"><span onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_RSS'])">
+                    <img src="http://static.blog.csdn.net/images/ico_rss.gif">订阅</span></a></li>                
+
+            </ul>
+    </div>
+</div>
+<script type="text/javascript">
+    var username = "SunliyMonkey";
+    var _blogger = username;
+    var blog_address = "http://blog.csdn.net/sunliymonkey";
+    var static_host = "http://static.blog.csdn.net";
+    var currentUserName = "";  
+</script>
+
+        <div id="body">
+            <div id="main">
+                <div class="main">
+                        <div class="ad_class">
+<div class="notice tracking-ad" data-mod='popu_3' > 
+
+<a href="http://blog.csdn.net/blogdevteam/article/details/47808555"><font color=red>【博乐】把C币，装进你的口袋</font></a>
+&nbsp;&nbsp;&nbsp;
+  
+
+<a href="http://huiyi.csdn.net/activity/product/goods_list?project_id=2262">
+<font color=blue>专家亲授Hadoop技术，你报名了吗？ 
+</font></a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="http://edu.csdn.net/combo/detail/63">
+<font color=red>软考套餐限时7折优惠 
+</font></a>
+&nbsp;&nbsp;&nbsp;
+
+<a href="http://www.csdn.net/app/">
+<font color=blue>CSDN移动客户端，下载送50C币
+</font></a>
+&nbsp;&nbsp;&nbsp;</div>                        </div>
+                        
+<div class="list_item_new">
+
+        <div id="article_toplist" class="list">
+
+        </div>
+
+    <div id="article_list" class="list">
+
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/47816451">
+        linux环境安装MySql            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+MySql 安装命令，以及常用命令介绍...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-08-20 22:17</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/47816451" title="阅读次数">阅读</a>(2)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/47816451#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/47172223">
+        个人配置--常用软件保护色设置            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+作为一个每天在电脑面前超过十二个小时的研究僧来说，最痛苦的事情就是面对白花花的屏幕，觉得眼睛难受。于是想到将自己常使用的软件的背景色设置成“保护色”，我也看见网上有不少人说，保护色并不能缓解眼疲劳，不过相比于面对亮闪闪的白色背景，我觉得保护色的设定，还是挺舒服的。保护色参数： 色调 85，饱和度 123， 亮度 205...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-07-31 17:04</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/47172223" title="阅读次数">阅读</a>(8)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/47172223#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/46764619">
+        MIT 6.824: 分布式系统实验            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+6.824是MIT的分布式系统课程，该课程结合相关论文和实验，能够让你充分体会到分布式系统的神奇之处。尤其提供的实验，能够让你摆脱纸上谈兵的困境，切身体会到设计分布式系统具体策略的乐趣。虽然这些实验只能管中窥豹，但是对你理解分布式系统，有相当大的帮助。
+　　以下五篇实验设报告，记录了我在实验中采用的策略，遇到的问题，希望对大家有所帮助。建议，亲们在认真思考之后，读一读，看看在思路上，有什么不同之处。...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-07-05 18:27</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/46764619" title="阅读次数">阅读</a>(37)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/46764619#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/46755983">
+        状态转移思想解读：欧几里德算法及扩展            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+欧几里德算法欧几里德算法被用于求解两个数的最大公约数: 
+问题描述为： 已知A，B，求解gcd（A，B）。
+看了上面的实现，相信你的第一感觉是十分简洁，确实也如此，对于一个不懂这两种算法的人，如果提醒你从“动态规划&quot;,“状态转移”等角度思考这两个问题，相信会有不少人能够AC它们。...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-07-04 16:29</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/46755983" title="阅读次数">阅读</a>(43)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/46755983#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/46728983">
+        MIT 6.824： lab5 Persistence实现设计            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+lab5 Persistence要求在lab4的基础上，增加数据持久化的功能，从而支持节点在dead之后能够根据磁盘数据进行恢复针对恢复时，磁盘的数据可能发生丢失，需要考虑以下恢复场景：
+本地同步：磁盘数据未丢失，节点同步本地数据后，再次提供服务。
+异地同步：磁盘数据丢失，节点同步其他节点的数据后，再次提供服务。
+数据持久化paxos数据固化paxos被用于决策操作之间的执行顺序，每个节点的内存中记录了...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-07-02 17:19</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/46728983" title="阅读次数">阅读</a>(43)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/46728983#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(2)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/46540913">
+        busybox静态编译和动态编译实践            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+BusyBox是一个集成了一百多个最常用linux命令和工具的软件。简单的说BusyBox就好像是个大工具箱，它集成压缩了Linux的许多工具和命令。本文将讲述，busybox静态编译，动态编译的方法。...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-06-18 00:43</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/46540913" title="阅读次数">阅读</a>(20)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/46540913#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/46523309">
+        tiny linux: 内核精简的根文件系统制作            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+tiny linux要求实现以下两点：
+精简linux内核镜像，要求在支持TCP/IP数据传输的情况下，内核镜像和正常运行所需内存能够做到尽可能的小。
+采用busybox制作根文件系统，利用kernel mode linux补丁，使得busybox运行在内核态。
+涉及知识点
+qemu使用
+linux内核配置，编译
+根文件系统制作
+在这里记录了我完成该项目的过程，希望对大家有用。...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-06-16 20:51</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/46523309" title="阅读次数">阅读</a>(66)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/46523309#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/45695037">
+        PKU Campus 2015解题报告            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+PKU Campus 2015解题报告这是第一次参加北大校赛，有一段时间没有好好做题了，加上自己太水，这场比赛做得很不好，场下仔细想了想没搞定的题目，其实没有想象中那么难~下次北大校赛，一定要好好打！因为平时实验室有不少事情要做，没办法将时间全花在做题上面，只能慢慢啃这一套题，同时将我的解决思路总结在这篇博客当中。PKU Campus 2015题目链接： http://poj.openjudge.c...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-05-13 16:41</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/45695037" title="阅读次数">阅读</a>(63)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/45695037#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/44892633">
+        Linux IO性能测试工具: FIO之初见            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+对于存储系统，人们最为关注“三高”问题： 高性能，高可扩展性，高可靠性。尝尝会听到某司宣称自己的存储系统能够达到6个9（$99.9999\%$），其指存储系统十分可靠，在一年中最多出现十几秒的宕机时间； 而对于高可扩展性，主要是指系统对存储设备（硬盘，闪存）数量增加的支持。而高性能则是指IOPS高，响应延迟低。
+
+说远了，我们回到主题，为了测试系统IO性能的高低，在实际开发中，需要使用IO性能测试工具进行测试。今天在...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-04-05 22:37</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/44892633" title="阅读次数">阅读</a>(94)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/44892633#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/44420027">
+        个性化配置--Linux Terminal终端            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+使用linux系统已经很多年，今天才注意到命令终端的格式和颜色均是可以配置，故在网上学习了一番，并写下此博客作为学习笔记。整篇博客简单分析了终端颜色和格式的默认配置代码，然后展示了语法规则，最终给出了作者使用的配置方案。
+
+
+在linux系统中，用户的配置文件有多个，一般熟悉的有 .bashrc，/etc/profile两个文件，我们可以在这两个文件中，找到终端的配置。对于终端的...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2015-03-18 19:55</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/44420027" title="阅读次数">阅读</a>(91)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/44420027#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    <div class="list_item article_item">
+        <div class="article_title">   
+         <span class="ico ico_type_Original"></span>
+
+
+    <h1>
+        <span class="link_title"><a href="/sunliymonkey/article/details/42026941">
+        正多面体几何构造法            
+        </a></span>
+    </h1>
+</div>
+
+        <div class="article_description">
+正多面体几何构造法
+
+
+
+概念
+
+
+
+
+正多面体：是指多面体的各个面都是全等的正多边形，并且各个多面角都是全等的多面角。
+五种正多面体：**正四面体、正六面体（正方体）、正八面体、正十二面体、正二十面体**。
+
+
+理论支持
+
+
+欧拉定理：任何凸多面体的顶点数v与面数f的和都较棱数e多2，即v+f-e=2。
+平面多边形内角和公式： (v-2)&#215;180&#176;。...        </div>
+        <div class="article_manage">
+         <span class="link_postdate">2014-12-19 13:05</span>
+    <span class="link_view" title="阅读次数"><a href="/sunliymonkey/article/details/42026941" title="阅读次数">阅读</a>(58)</span>
+    <span class="link_comments" title="评论次数"><a href="/sunliymonkey/article/details/42026941#comments" title="评论次数" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_pinglun'])">评论</a>(0)</span>
+    
+</div>
+
+        <div class="clear"></div>
+    </div>
+    </div>
+
+    <!--显示分页-->
+
+
+</div>
+<script  type="text/ecmascript">
+    $(function () {
+        setTimeout(function () {
+            $("a img[src='http://js.tongji.linezing.com/stats.gif']").parent().css({ "position": "absolute", "left": "50%" });
+        }, 300);
+    });    
+</script>
+ 
+                        <div class="clear">
+                        </div>
+                    </div>                   
+                
+            </div>
+                   
+           <div id="side">
+    <div class="side">
+<div id="panel_Profile" class="panel">
+<ul class="panel_head"><span>个人资料</span></ul>
+<ul class="panel_body profile">
+<div id="blog_userface">
+    <a href="http://my.csdn.net/SunliyMonkey" target="_blank">
+    <img src="http://avatar.csdn.net/9/B/A/1_sunliymonkey.jpg" title="访问我的空间" style="max-width:90%"/>
+    </a>
+    <br />
+    <span><a href="http://my.csdn.net/SunliyMonkey" class="user_name" target="_blank">SunliyMonkey</a></span>
+</div>
+<div class="interact">
+
+    <a href="javascript:void(0);" class="attent" id="span_add_follow" title="[加关注]"></a>
+
+ <a href="javascript:void(0);" class="letter"  title="[发私信]" onclick="window.open('http://msg.csdn.net/letters/model?receiver=SunliyMonkey','_blank','height=350,width=700');_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_sixin'])"></a>  
+</div>
+<div id="blog_medal">
+                <div id="bms_box">
+                                            <a  target="_blank">
+                                                    <img src="http://c.csdnimg.cn/jifen/images/xunzhang/xunzhang/chizhiyiheng.png" onmouseover="m_over_m(this,4)" onmouseout="m_out_m()" alt="1" >
+                                            </a>
+               </div>
+</div>
+<ul id="blog_rank">
+    <li>访问：<span>518次</span></li>
+    <li>积分：<span>160</span> </li>    
+    <li >等级： <span style="position:relative;display:inline-block;z-index:1" >
+            <img src="http://c.csdnimg.cn/jifen/images/xunzhang/jianzhang/blog2.png" alt="" style="vertical-align: middle;" id="leveImg">
+            <div id="smallTittle" style=" position: absolute;  left: -24px;  top: 25px;  text-align: center;  width: 101px;  height: 32px;  background-color: #fff;  line-height: 32px;  border: 2px #DDDDDD solid;  box-shadow: 0px 2px 2px rgba (0,0,0,0.1);  display: none;   z-index: 999;">
+            <div style="left: 42%;  top: -8px;  position: absolute;  width: 0;  height: 0;  border-left: 10px solid transparent;  border-right: 10px solid transparent;  border-bottom: 8px solid #EAEAEA;"></div>
+            积分：160 </div>
+        </span>  </li>
+    <li>排名：<span>千里之外</span></li>
+</ul>
+<ul id="blog_statistics">
+    <li>原创：<span>10篇</span></li>
+    <li>转载：<span>0篇</span></li>
+    <li>译文：<span>0篇</span></li>
+    <li>评论：<span>2条</span></li>
+</ul>
+</ul>
+</div>
+
+
+
+
+<div id="custom_column_39431947" class="panel">
+<ul class="panel_head"><span>快乐的程序猿</span></ul>
+<ul class="panel_body">
+
+研究僧在读 <br>
+喜欢算法，分布式系统 <br>
+<hr>
+<p><a href="mailto:sunliymonkey@163.com" title="给我发邮件！">邮箱：sunliymonkey@163.com </a>
+</p>
+<p>QQ交流: <a target="_blank" href="http://wpa.qq.com/msgrd?v=3&amp;uin=904689262&amp;site=qq&amp;menu=yes">
+<img src="http://img.my.csdn.net/uploads/201204/19/1334822360_7701.gif" alt="欢迎与我交流！" title="点击开启QQ聊天！" border="0" align="absmiddle"></a>
+</p>
+
+</ul>
+</div><div class="panel" id="panel_Search">
+    <ul class="panel_head"><span>文章搜索</span></ul>
+    <ul class="panel_body">
+        <form id="frmSearch" action="http://so.csdn.net/search" class="form_search" target="_blank">
+        <span><input id="inputSearch" type="text" class="blogsearch" title="请输入关键字" /></span>
+        <input id="btnSubmit" type="button" value="搜索" title="search in blog" />
+        <input type="hidden" name="q" id="inputQ" />
+        <input type="hidden" name="t" value="blog" />
+        <a id="btnSearchBlog" target="_blank"></a>
+        </form>
+    </ul>
+</div>
+
+<script type="text/javascript">
+    $(function () {
+        $("#btnSubmit").click(function () {           
+            search();
+        });
+
+        $("#frmSearch").submit(function () {
+            search();
+            return false;
+        });
+
+        function search()
+        {
+            var url = "http://so.csdn.net/so/search/s.do?q=" + encodeURIComponent($("#inputSearch").val()) + "&u=" + username + "&t=blog";
+            window.location.href = url;
+        }   
+    });
+</script><div id="panel_Category" class="panel">
+<ul class="panel_head"><span>文章分类</span></ul>
+<ul class="panel_body">    
+                 <li>
+                    <a href="/SunliyMonkey/article/category/2782989" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">数学之美</a><span>(1)</span>
+                </li>
+                 <li>
+                    <a href="/SunliyMonkey/article/category/3013109" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">技术人生</a><span>(5)</span>
+                </li>
+                 <li>
+                    <a href="/SunliyMonkey/article/category/3013119" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">分布式系统</a><span>(2)</span>
+                </li>
+                 <li>
+                    <a href="/SunliyMonkey/article/category/3013127" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">存储</a><span>(1)</span>
+                </li>
+                 <li>
+                    <a href="/SunliyMonkey/article/category/3013193" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">半亩方田</a><span>(2)</span>
+                </li>
+                 <li>
+                    <a href="/SunliyMonkey/article/category/3213817" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">ACM</a><span>(1)</span>
+                </li>
+                 <li>
+                    <a href="/SunliyMonkey/article/category/3213819" onclick="_gaq.push(['_trackEvent','function', 'onclick', 'blog_articles_wenzhangfenlei']); ">算法</a><span>(2)</span>
+                </li>
+</ul>
+</div><div id="panel_Archive" class="panel">
+<ul class="panel_head"><span>文章存档</span></ul>
+<ul class="panel_body">
+<div id="archive_list">
+<!--归档统计-->
+<li><a href="/SunliyMonkey/article/month/2015/08">2015年08月</a><span>(1)</span></li><li><a href="/SunliyMonkey/article/month/2015/07">2015年07月</a><span>(4)</span></li><li><a href="/SunliyMonkey/article/month/2015/06">2015年06月</a><span>(2)</span></li><li><a href="/SunliyMonkey/article/month/2015/05">2015年05月</a><span>(1)</span></li><li><a href="/SunliyMonkey/article/month/2015/04">2015年04月</a><span>(1)</span></li><li><a href="/SunliyMonkey/article/month/2015/03">2015年03月</a><span>(1)</span></li><li><a href="/SunliyMonkey/article/month/2014/12">2014年12月</a><span>(1)</span></li>
+</div>
+</ul>
+</div>
+<div id="hotarticls" class="panel">
+<ul class="panel_head">
+    <span>       
+阅读排行    </span>
+</ul>
+
+<ul class="panel_body itemlist">
+<li>
+<a href="/sunliymonkey/article/details/44892633" title="Linux IO性能测试工具: FIO之初见">Linux IO性能测试工具: FIO之初见</a><span>(93)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/44420027" title="个性化配置--Linux Terminal终端">个性化配置--Linux Terminal终端</a><span>(91)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/46523309" title="tiny linux: 内核精简的根文件系统制作">tiny linux: 内核精简的根文件系统制作</a><span>(66)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/45695037" title="PKU Campus 2015解题报告">PKU Campus 2015解题报告</a><span>(63)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/42026941" title="正多面体几何构造法">正多面体几何构造法</a><span>(57)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/46728983" title="MIT 6.824： lab5 Persistence实现设计">MIT 6.824： lab5 Persistence实现设计</a><span>(43)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/46755983" title="状态转移思想解读：欧几里德算法及扩展">状态转移思想解读：欧几里德算法及扩展</a><span>(43)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/46764619" title="MIT 6.824: 分布式系统实验">MIT 6.824: 分布式系统实验</a><span>(36)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/46540913" title="busybox静态编译和动态编译实践">busybox静态编译和动态编译实践</a><span>(20)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/47172223" title="个人配置--常用软件保护色设置">个人配置--常用软件保护色设置</a><span>(7)</span>
+</li>
+</ul>
+</div>
+<div id="newcomments" class="panel">
+<ul class="panel_head"><span>最新评论</span></ul>
+<ul class="panel_body itemlist">
+    <li>
+   
+         <a href="/sunliymonkey/article/details/46728983#comments">MIT 6.824： lab5 Persistence实现设计</a>
+    <p style="margin:0px;"><a href="/SunliyMonkey" class="user_name">SunliyMonkey</a>:
+@waff1301:三个副本之间，你有主动推动执行操作么？ 对副本{A,B,C},可能出现A执行到了...
+    </p>
+    </li>
+    <li>
+   
+         <a href="/sunliymonkey/article/details/46728983#comments">MIT 6.824： lab5 Persistence实现设计</a>
+    <p style="margin:0px;"><a href="/waff1301" class="user_name">waff1301</a>:
+写的很详细，拜读了，我的思路基本类似，但是测试用例中测试磁盘空间使用的两个一直通过不了，不知您的如何...
+    </p>
+    </li>
+</ul>
+</div>
+<div id="hotarticls2" class="panel">
+<ul class="panel_head"><span>评论排行</span></ul>
+<ul class="panel_body itemlist">
+<li>
+<a href="/sunliymonkey/article/details/46728983" title="MIT 6.824： lab5 Persistence实现设计">MIT 6.824： lab5 Persistence实现设计</a><span>(2)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/42026941" title="正多面体几何构造法">正多面体几何构造法</a><span>(0)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/46764619" title="MIT 6.824: 分布式系统实验">MIT 6.824: 分布式系统实验</a><span>(0)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/46755983" title="状态转移思想解读：欧几里德算法及扩展">状态转移思想解读：欧几里德算法及扩展</a><span>(0)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/46540913" title="busybox静态编译和动态编译实践">busybox静态编译和动态编译实践</a><span>(0)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/46523309" title="tiny linux: 内核精简的根文件系统制作">tiny linux: 内核精简的根文件系统制作</a><span>(0)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/45695037" title="PKU Campus 2015解题报告">PKU Campus 2015解题报告</a><span>(0)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/44892633" title="Linux IO性能测试工具: FIO之初见">Linux IO性能测试工具: FIO之初见</a><span>(0)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/44420027" title="个性化配置--Linux Terminal终端">个性化配置--Linux Terminal终端</a><span>(0)</span>
+</li>
+<li>
+<a href="/sunliymonkey/article/details/47172223" title="个人配置--常用软件保护色设置">个人配置--常用软件保护色设置</a><span>(0)</span>
+</li>
+</ul>
+</div>
+<div id="homepageArticles" class="panel tracking-ad" data-mod="popu_4">
+<ul class="panel_head"><span>推荐文章</span></ul>
+<ul class="panel_body" id="ad_commend"></ul>
+</div>
+<script type="text/javascript">
+ new Ad(12, 'ad_commend');
+</script>    </div>
+    <div class="clear">
+    </div>
+ </div>   
+            <div class="clear">
+            </div>
+        </div>
+        
+
+<script type="text/javascript" src="http://c.csdnimg.cn/rabbit/cnick/cnick.js"></script>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/newblog.min.js"></script>
+
+
+<script type="text/javascript" src="http://medal.blog.csdn.net/showblogmedal.ashx?blogid=4912605"></script>
+<script type="text/javascript" src="http://static.blog.csdn.net/scripts/JavaScript1.js"></script>
+
+    <script type="text/javascript" src="http://passport.csdn.net/content/loginbox/login.js"></script>
+<script type="text/javascript">document.write("<img src=http://counter.csdn.net/pv.aspx?id=26 border=0 width=0 height=0>");</script>
+<script type="text/javascript" src="http://www.csdn.net/ui/scripts/Csdn/counter.js"></script>
+<script type="text/javascript" src="http://ad.csdn.net/scripts/ad-blog.js"></script>
+<script type="text/javascript">
+    $(function () {
+        function __get_code_toolbar(snippet_id) {
+            return $("<a href='https://code.csdn.net/snippets/"
+                    + snippet_id
+                    + "' target='_blank' title='在CODE上查看代码片' style='text-indent:0;'><img src='https://code.csdn.net/assets/CODE_ico.png' width=12 height=12 alt='在CODE上查看代码片' style='position:relative;top:1px;left:2px;'/></a>"
+                    + "<a href='https://code.csdn.net/snippets/"
+                    + snippet_id
+                    + "/fork' target='_blank' title='派生到我的代码片'  style='text-indent:0;'><img src='https://code.csdn.net/assets/ico_fork.svg' width=12 height=12 alt='派生到我的代码片' style='position:relative;top:2px;left:2px;'/></a>");
+        }
+        
+        $("[code_snippet_id]").each(function () {
+            __s_id = $(this).attr("code_snippet_id");
+            if (__s_id != null && __s_id != "" && __s_id != 0 && parseInt(__s_id) > 70020) {
+                __code_tool = __get_code_toolbar(__s_id);
+                $(this).prev().find(".tools").append(__code_tool);
+            }
+        });
+    });
+</script>
+
+
+
+
+    </div>
+      <!--new top-->
+    
+    <script id="csdn-toolbar-id" btnId="header_notice_num" wrapId="note1" count="5" subCount="5" type="text/javascript" src="http://static.csdn.net/public/common/toolbar/js/toolbar.js"></script>     <!--new top-->
+   
+    <link href="http://c.csdnimg.cn/comm_ask/css/ask_float_block.css" type="text/css" rel="stylesheet" />
+    <script language='JavaScript' type='text/javascript' src='http://c.csdnimg.cn/comm_ask/js/libs/wmd.js'></script>
+    <script language='JavaScript' type='text/javascript' src='http://c.csdnimg.cn/comm_ask/js/libs/showdown.js'></script>
+    <script language='JavaScript' type='text/javascript' src='http://c.csdnimg.cn/comm_ask/js/libs/prettify.js'></script>
+    <script language='JavaScript' type='text/javascript' src='http://c.csdnimg.cn/comm_ask/js/apps/ask_float_block.js'></script>
+   
+</body>
+</html>   
+ 
